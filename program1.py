@@ -1,5 +1,5 @@
 def HelloEveryone():
-    print("Hello Everyone")
+    print("Hello_Everyone")
 
 
 HelloEveryone()
